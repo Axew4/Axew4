@@ -217,4 +217,4 @@ async def info(ctx):
 
 
 
-client.run('OTA0NzM3MTM2NzY1NDYwNTYx.YX_4Hg.N-AqPnG5KwfUPl4GrH710CJY_lE')
+client.run(Choose your token)
